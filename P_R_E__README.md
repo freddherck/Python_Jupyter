@@ -1,5 +1,8 @@
 READ ME for the Player_Retention_Engagement project
 
+Business Objective:
+Identify behavioral drivers of high player engagement and predict churn risk.
+
 Key Findings--
 1. Players with 4+ sessions per week are 2.3x more likely to be highly engaged.
 2. Higher session duration strongly correlates with retention.
@@ -12,5 +15,8 @@ Product recommendations--
 2. Increase early progression incentives.
 3. Introduce difficulty calibration for new players.
 4. Create monetization funnels that do not disrupt engagement.
- 
-Find the data used, from Kaggle, here: https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset
+
+Tools - Python (pandas, seaborn, sklearn)
+Methodology - Behavioral comparison analysis. Correlation study. Feature importance modeling (Random Forest) 
+
+Find the data I used, from Kaggle, here: https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset
