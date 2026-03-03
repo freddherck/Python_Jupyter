@@ -1,0 +1,15 @@
+READ ME for the Player_Retention_Engagement project
+
+Key Findings--
+1. Players with 4+ sessions per week are 2.3x more likely to be highly engaged.
+2. Higher session duration strongly correlates with retention.
+3. In-game purchases are positively associated with long-term engagement.
+4. Players progressing faster (levels + achievements) show lower churn risk.
+5. Strategy and RPG genres demonstrate higher retention than casual genres.
+
+Product recommendations--
+1. Encourage, greater than or equal, to 3 sessions per week through daily rewards.
+2. Increase early progression incentives.
+3. Introduce difficulty calibration for new players.
+4. Create monetization funnels that do not disrupt engagement.
+ 
