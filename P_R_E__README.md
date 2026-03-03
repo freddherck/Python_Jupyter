@@ -13,3 +13,4 @@ Product recommendations--
 3. Introduce difficulty calibration for new players.
 4. Create monetization funnels that do not disrupt engagement.
  
+Find the data used, from Kaggle, here: https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset
